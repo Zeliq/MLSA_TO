@@ -29,7 +29,7 @@ const siteProps = {
   email: "zeliqzayyan@gmail.com",
   gitHub: "Zeliq",
   instagram: "zeliqzayyan",
-  linkedIn: "zeliq zayyan",
+  linkedIn: "zeliqzayyan",
   medium: "",
   twitter: "zeliqzayyan",
   youTube: "",
